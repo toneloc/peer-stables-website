@@ -1,2 +1,1 @@
-# peer-stables-website
-Website for PeerStables.com
+Thanks to jamaljsr for this website.
